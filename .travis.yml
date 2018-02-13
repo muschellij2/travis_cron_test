@@ -15,5 +15,5 @@ deploy:
     branch: master
 
 branches:
-  only:
     - gh-pages    
+    - master
